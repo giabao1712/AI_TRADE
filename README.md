@@ -22,6 +22,7 @@
     * Biểu đồ so sánh giá Thực tế vs Dự báo (Backtesting).
     * Biểu đồ đánh giá độ mất mát (Loss) trong quá trình huấn luyện.
 * **🔮 Dự báo tương lai:** Đưa ra mức giá dự kiến cho phiên tiếp theo và tính toán % tăng trưởng.
+* Cách run :streamlit run test.py
 
 ## 🛠️ Yêu Cầu Hệ Thống
 
@@ -35,3 +36,4 @@ tensorflow
 scikit-learn
 streamlit
 plotly
+
